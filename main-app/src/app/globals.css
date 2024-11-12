@@ -4,11 +4,11 @@
 
 body {
     font-family: Arial, Helvetica, sans-serif;
+    background-color: #f9fafc;
 }
 
 /* MAIN PAGE STYLING */
 .main-container {
-    background-color: #f9fafc;
     height: 600px;
     justify-content: center;
 }
@@ -47,6 +47,7 @@ body {
 
 .mar {
     font-weight: bold;
+    background-color: white;
     display: flex;
     font-size: 18px;
     margin-bottom: -9px;
