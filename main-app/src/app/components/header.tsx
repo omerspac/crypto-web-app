@@ -7,16 +7,16 @@ export default function Header() {
                 <Link href="/">
                 <li>Home</li>
                 </Link>
-                <Link href="/about-us">
+                <Link href="/">
                 <li>Market</li>
                 </Link>
-                <Link href="/contact-us">
+                <Link href="/">
                 <li>Features</li>
                 </Link>
-                <Link href="/contact-us">
+                <Link href="/">
                 <li>Pricing</li>
                 </Link>
-                <Link href="/contact-us">
+                <Link href="/">
                 <li>Resources</li>
                 </Link>
             </ul>
