@@ -20,14 +20,16 @@ export default function Footer() {
             <div className="footer-section">
                 <h3><b>Follow Links</b></h3>
                 <div className="social-icons">
-                    <a href="#" className="social-icon">🌍</a>
-                    <a href="#" className="social-icon">📸</a>
+                    <a href="#" className="social-icon"><i className="fa-solid fa-earth-americas"></i></a>
+                    <a href="#" className="social-icon"><i className="fa-brands fa-facebook"></i></a>
+                    <a href="#" className="social-icon"><i className="fa-brands fa-youtube"></i></a>
+                    <a href="#" className="social-icon"><i className="fa-brands fa-instagram"></i></a>
                     <a href="#" className="social-icon"><i className="fa-brands fa-x-twitter"></i></a>
                 </div>
             </div>
         </div>
         <div className="footer-bottom">
-            <p><b>&copy; 2024 OmerTravelBlogs. All Rights Reserved.</b></p>
+            <p><b>&copy; 2024 Omer CryptoMarket. All Rights Reserved.</b></p>
         </div>
     </footer>
     
