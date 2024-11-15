@@ -1,7 +1,7 @@
 "use client";
 
-import Image from "next/image";//-
-import { useState, useEffect } from "react";//-
+import Image from "next/image";
+import { useState, useEffect } from "react";
 export default function Home() {
   const API_KEY = "e219e5a64c0d5dd462c55db837f711cc";
   const [data, setData] = useState<any>(null);
